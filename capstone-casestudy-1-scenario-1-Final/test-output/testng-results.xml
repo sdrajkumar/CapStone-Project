@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-18T11:50:43 IST" name="Suite" finished-at="2024-05-18T11:50:50 IST" duration-ms="7043">
+    <groups>
+    </groups>
+    <test started-at="2024-05-18T11:50:43 IST" name="Test" finished-at="2024-05-18T11:50:50 IST" duration-ms="7043">
+      <class name="automationpandatest.ContactPageTest">
+        <test-method is-config="true" signature="openContactPage()[pri:0, instance:automationpandatest.ContactPageTest@2b71e916]" started-at="2024-05-18T11:50:25 IST" name="openContactPage" finished-at="2024-05-18T11:50:36 IST" duration-ms="11384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openContactPage -->
+        <test-method signature="testContactPage()[pri:0, instance:automationpandatest.ContactPageTest@2b71e916]" started-at="2024-05-18T11:50:45 IST" name="testContactPage" finished-at="2024-05-18T11:50:50 IST" duration-ms="5305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContactPage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:automationpandatest.ContactPageTest@2b71e916]" started-at="2024-05-18T11:50:50 IST" name="closeBrowser" finished-at="2024-05-18T11:50:51 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationpandatest.ContactPageTest -->
+      <class name="automationpandatest.WantToPracticeTestAutomationPageTest">
+        <test-method is-config="true" signature="openWantToPracticeTestAutomationPage()[pri:0, instance:automationpandatest.WantToPracticeTestAutomationPageTest@74235045]" started-at="2024-05-18T11:50:36 IST" name="openWantToPracticeTestAutomationPage" finished-at="2024-05-18T11:50:43 IST" duration-ms="7061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWantToPracticeTestAutomationPage -->
+        <test-method signature="testWantToPracticeTestAutomationPageTitle()[pri:0, instance:automationpandatest.WantToPracticeTestAutomationPageTest@74235045]" started-at="2024-05-18T11:50:43 IST" name="testWantToPracticeTestAutomationPageTitle" finished-at="2024-05-18T11:50:44 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWantToPracticeTestAutomationPageTitle -->
+        <test-method signature="testContactPage()[pri:1, instance:automationpandatest.WantToPracticeTestAutomationPageTest@74235045]" started-at="2024-05-18T11:50:44 IST" name="testContactPage" finished-at="2024-05-18T11:50:45 IST" duration-ms="1484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContactPage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:automationpandatest.WantToPracticeTestAutomationPageTest@74235045]" started-at="2024-05-18T11:50:51 IST" name="closeBrowser" finished-at="2024-05-18T11:50:51 IST" duration-ms="334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationpandatest.WantToPracticeTestAutomationPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
